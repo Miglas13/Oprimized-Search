@@ -1,4 +1,4 @@
-# Oprimized-Search
+# Optimized-Search
 A software that given a query search for the result as fast as possible in a big data, with a binary tree combined with a list. This was developed with C.
 
 It was asked to do a search for a course and the students that had grades equal, higher or lower than a certain grade. For that, the user will have to introduce queries like:
